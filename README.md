@@ -142,7 +142,7 @@ The system employs a modular four-subsystem architecture integrating power, sens
 
 ### IoT Cloud Monitoring
 
-![User Dashboard](docs/Dashboard_User_Interface.jpg)
+![User Dashboard](docs/Dashboard_User_Interface.png)
 
 * **Real-time dashboard**: Live temperature and humidity display via Adafruit IO
 * **Historical graphing**: Trend analysis for entire 21-day incubation cycle
