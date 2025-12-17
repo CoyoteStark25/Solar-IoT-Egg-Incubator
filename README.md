@@ -2,6 +2,8 @@
 
 An Automated, Remotely-Monitored Solution for Smallholder Farmers in Nigeria
 
+![Solar-Powered-IOT-Egg-Incubator](docs/Prototype2.jpg)
+
 ## 1. Overview
 
 The Solar-Powered IoT Egg Incubator is an intelligent, fully automated hatching system designed to address critical challenges facing smallholder poultry farmers in Nigeria: unreliable electricity supply, high equipment costs, and lack of remote monitoring capabilities. By integrating renewable solar energy, ESP32 microcontroller automation, and cloud-based IoT monitoring via Adafruit IO, the system achieves professional-grade hatchability rates while operating completely off-grid.
@@ -27,6 +29,7 @@ Poultry farming is critical to Nigeria's food security and rural livelihoods, bu
 In rural Nigeria, where 70% of poultry farmers operate at small-to-medium scale (50-1000 birds), these challenges result in hatch rates of only 33-50% compared to 85-95% in developed countries. Unreliable electricity forces farmers to use kerosene lamps or charcoal for heating, creating fire hazards and producing inconsistent temperatures. The economic impact is severe: a single batch loss represents 2-3 months of household income for smallholder farmers.
 
 ## 3. Solution Summary
+![Solar-Powered-IOT-Egg-Incubator](docs/Prototype1.jpg)
 
 This project develops a fully functional solar-powered automatic egg incubator that eliminates grid dependency, reduces labor requirements, and enables remote monitoring through affordable, locally-accessible technology. The system demonstrates that commercial-grade automation and hatchability can be achieved at a fraction of conventional costs.
 
@@ -138,6 +141,8 @@ The system employs a modular four-subsystem architecture integrating power, sens
 * **Fail-safe logic**: System defaults to safe state on sensor failure or power loss
 
 ### IoT Cloud Monitoring
+
+![User Dashboard](docs/Dashboard-User-Interface.jpg)
 
 * **Real-time dashboard**: Live temperature and humidity display via Adafruit IO
 * **Historical graphing**: Trend analysis for entire 21-day incubation cycle
